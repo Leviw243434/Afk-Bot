@@ -1,18 +1,18 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "staff",
     "password": "your_password",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "Levivandenheuvel.aternos.me:",
+    "port": 61614,
+    "version": "1.21.4"
   },
 
   "position": {
-    "enabled": false,
+    "enabled": true,
     "x": 0,
     "y": 0,
     "z": 0
@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": false,
-      "password": "12345678"
+      "password": "levivandenheuvel"
     },
 
     "anti-afk": {
